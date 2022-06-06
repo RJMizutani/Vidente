@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1, h2, h3{
+    color: whitesmoke;
+    margin: 10px;
+}
+
+.principal{
+
+    margin-top: 5%;
+
+}
+
+.imgPrincipal{
+
+    margin-top: 7%;
+    height: 25%;
+    border-radius: 15%;
+
+}
